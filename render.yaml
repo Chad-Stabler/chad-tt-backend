@@ -50,7 +50,7 @@ services:
   - type: web
     name: my blog
     env: static
-    buildCommand: npm run setup-db
+    buildCommand: yarn build
     staticPublishPath: ./build
     pullRequestPreviewsEnabled: true # optional
     buildFilter:
