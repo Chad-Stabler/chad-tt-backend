@@ -65,7 +65,7 @@ CREATE TABLE followers (
 
 insert into users (GamerTag, email, password_hash, bio, platforms, channelLinks) values
 ('CheatcodeChad', 'stablerpsn@gmail.com', '$2b$10$uJutybBq9l/Hwk81Ourcm.sRgBUqPOthHNek8cO7x2wWAf5Sjz9Ie', 
-'Developer of Twitch Tok, absolute legend. can scramble under pressure so effectively I look like Neo from The Matrix',
+'Developer of Twitch Tok, absolute legend, can scramble under pressure so effectively I look like Neo from The Matrix',
 'Playstation, PC', 'https://www.youtube.com/channel/UCyS4i5WTxl16KPJRNl3i0jg, https://www.twitch.tv/thegoodmansinner'),
 ('LEINADDROFNATS', 'stanman@gmail.com', '$2b$10$LVjRfZEU00gO.pzF8A2nE.vH/j6RgVJ3b2/unbauuVIDvHq2IA4Eq', 
 'Developer of Twitch Tok, the goat. i dont know you thats my pocket watch',
